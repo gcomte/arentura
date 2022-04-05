@@ -9,13 +9,20 @@ List of surfing equipment to be rented
 
 | Service | Owner | Price |
 | --- | --- | --- |
-| Bodyboards | [Naotoshi](#bodyboards-naotoshi-horishi) | $5 / day |
+| Bodyboards and classes | [Naotoshi](#bodyboards-naotoshi-horishi) | $10 / day |
 
 ---
 
 ### Bodyboards Naotoshi Horishi
 
 ![](assets/naotoshi/NaotoshiBodyboards.jpg)
+
+| Type | Detail | Price |
+| --- | --- | --- |
+| Bodyboard | Daily rate | $10 |
+| Bodyboard with fin | Daily rate | $15 |
+| Bodyboard | Hourly rate | $5 |
+| Class | Hourly rate | $35 |
 
 #### Contact
 Contact Naotoshi [on Facebook](https://www.facebook.com/crazymindstattoo).
