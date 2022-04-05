@@ -10,7 +10,7 @@ rank: 6
 | --- | --- | --- |
 | Coworking Space | [Hope House](#coworking-space-hope-house) | Price: $10/day |
 | Hairdresser | [Lily](#hairdresser-lily) | Unisex |
-| Tattoo Studio | [Crazy Minds Studio](#crazy-minds-studio) | |
+| Tattoo Studio | [Crazy Minds Studio](#tattoos-crazy-minds-studio) | |
 
 ---
 
@@ -52,7 +52,7 @@ Find Lily on [Google Maps](https://goo.gl/maps/VmkFa4tDGWbTtS8v7) and use these 
 ![](assets/lily/LilyCasaSmall.jpg)
 ![](assets/lily/LilyStudioSmall.jpg)
 
-### Crazy Minds Studio
+### Tattoos: Crazy Minds Studio
 
 ![natoshi-profile](assets/naotoshi/NaotoshiSurfing.jpg)
 <style>img[alt=lily-logo] { width: 200px; float: left; margin: 0px 15px 20px 0px;}</style>
