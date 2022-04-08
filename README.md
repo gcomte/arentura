@@ -1,14 +1,13 @@
-## Bitcoin Beach | arentura!
+# An index for all that's going on at Bitcoin Beach!
 
-[arentura](https://arentura.com) helps you find where and what to rent at the Bitcoin Beach in El Zonte!
+Go checkout [arentura.com](https://arentura.com) and see what this project is all about :-)
 
-If you want to add an item, [create a Pull Request](https://github.com/gcomte/arentura) or join our [Telegram group](https://t.me/arentura).
+### A community project
 
-### Español
+Pull Requests are welcome!  
+If any data is out of date, but you don't know how to fix it, open an issue!  
+If you want to get in touch with us, join our [Telegram group](https://t.me/arentura).
 
-Si quieres agregar tu servicio, únete a nuestro [Grupo de Telegram](https://t.me/arentura). Hablamos inglés y español.
+### Donations
 
-### Bitcoin Beach Wallet
-
-This is a community project!
 Feel free to support us by dropping some sats onto our [Bitcoin Beach wallet](https://ln.bitcoinbeach.com/arentura).
