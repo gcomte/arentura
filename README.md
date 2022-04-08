@@ -11,4 +11,3 @@ If you want to get in touch with us, join our [Telegram group](https://t.me/aren
 ### Donations
 
 Feel free to support us by dropping some sats onto our [Bitcoin Beach wallet](https://ln.bitcoinbeach.com/arentura).
-
