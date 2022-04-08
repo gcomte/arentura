@@ -9,6 +9,7 @@ List of public chat groups. Feel free to join!
 
 | Service | Platform | Comment |
 | --- | --- | --- |
+| [Bitcoin El Salvador](https://t.me/BitcoinElSalvadorEN) | Telegram | |
 | [Buy/Sell El Zonte](https://t.me/sellzonte) | Telegram | Flea market like group |
 | [Bitcoin Beach Events](https://t.me/bbevents) | Telegram | Events around El Zonte |
 | [El Zonte Bitcoiners](https://t.me/ezbitcoiners) | Telegram | HODL! |
