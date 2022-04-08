@@ -12,15 +12,3 @@ If you want to get in touch with us, join our [Telegram group](https://t.me/aren
 
 Feel free to support us by dropping some sats onto our [Bitcoin Beach wallet](https://ln.bitcoinbeach.com/arentura).
 
-
-## Contribute
-
-Contributions are welcome
-
-### Run Locally
-
-Prerequisites: https://jekyllrb.com/docs/installation/
-
-```
-jekyll serve -w --config _config.yml
-```
