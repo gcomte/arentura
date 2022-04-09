@@ -24,9 +24,17 @@ footer .desktop {
 
     .logo-mobile {
         position: absolute;
-        top: -15px;
+        top: -14px;
         right: 15px;
         font-size: 1.2rem;
+    }
+
+    .logo-mobile h1 {
+        color: #fff;
+    }
+
+    header {
+        background: #00002b;
     }
 
     header #branding {
@@ -39,7 +47,7 @@ footer .desktop {
 
     .container {
         max-width: 1050px;
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
 
@@ -62,6 +70,12 @@ footer .desktop {
 
     .navbar .nav-container li {
         list-style: none;
+        color: #fff;
+    }
+
+    .navbar .nav-container li {
+        list-style: none;
+        color: #fff;
     }
 
     .navbar .nav-container a {
@@ -111,7 +125,7 @@ footer .desktop {
         height: 4px;
         width: 100%;
         border-radius: 10px;
-        background: #0e2431;
+        background: #fff;
     }
 
     .nav-container .hamburger-lines .line1 {
@@ -157,7 +171,7 @@ footer .desktop {
     }
 
     .navbar .menu-items a {
-        color: #111;
+        color: #00002b;
     }
 
     .nav-container input[type="checkbox"]:checked ~ .menu-items {
@@ -176,8 +190,12 @@ footer .desktop {
         transform: rotate(-45deg);
     }
 
-    .nav-container input[type="checkbox"]:checked ~ .logo-mobile {
-        display: none;
+    .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line {
+        background: #00002b;
+        -webkit-transition: background-color 0.4s ease-out;
+        -moz-transition: background-color 0.4s ease-out;
+        -o-transition: background-color 0.4s ease-out;
+        transition: background-color 0.4s ease-out;
     }
 
     footer {
