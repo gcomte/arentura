@@ -1,4 +1,4 @@
-## Bitcoin Beach | arentura!
+## Bitcoin Beach
 
 **arentura** helps you find where and what to rent at the Bitcoin Beach in El Zonte!
 
