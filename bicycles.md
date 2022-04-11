@@ -8,8 +8,8 @@ rank: 3
 
 | Service | Owner | Price |
 | --- | --- | --- |
-| Bicycle | [Sacha](#sachas-bike) | $10/day |
-| Bicycle | [David](#davids-bike) | |
+| Bicycle | [Sacha](#sachas-bike) | $5/day |
+| Bicycle | [David](#davids-bike) | $5/day |
 
 ---
 
@@ -19,8 +19,8 @@ rank: 3
 
 | Time period | Price |
 | --- | --- |
-| Day | $10 |
-| Week | $40 |
+| Day | $5 |
+| 5 Days | $20 |
 
 #### Contact
 Contact Sacha [on Whatsapp](https://wa.me/+31615417038) or call him: +503 7754 4288
