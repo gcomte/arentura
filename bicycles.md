@@ -4,4 +4,42 @@ title: Bicycles
 rank: 3
 ---
 
-Coming soon!
+### Overview
+
+| Service | Owner | Price |
+| --- | --- | --- |
+| Bicycle | [Sacha](#sachas-bike) | $10/day |
+| Bicycle | [David](#davids-bike) | |
+
+---
+
+### Sacha's bike
+
+![](assets/sacha/bike.png)
+
+| Time period | Price |
+| --- | --- |
+| Day | $10 |
+| Week | $40 |
+
+#### Contact
+Contact Sacha [on Whatsapp](https://wa.me/+31615417038) or call him: +503 7754 4288
+
+#### Location
+Find Sacha on [Google Maps](https://maps.app.goo.gl/NyyhgNDhKvLxTzCv8).
+He is located within the Hostel *Rio Surf*:
+
+![](assets/naotoshi/RioSurfLocation1Small.jpg)
+![](assets/naotoshi/RioSurfLocation2Small.jpg)
+![](assets/naotoshi/RioSurfLocation3Small.jpg)
+
+#### Payment
+Sacha accepts Bitcoin!  
+He accepts payments on his [Bitcoin Beach wallet](https://ln.bitcoinbeach.com/arentura).
+
+### David's bike
+
+![](assets/david_avalos/bike.png)
+
+#### Contact
+Contact David Avalos [on Whatsapp](https://wa.me/+50370506342) or call him: +503 7050 6342
