@@ -33,10 +33,6 @@ He is located within the Hostel *Rio Surf*:
 ![](assets/naotoshi/RioSurfLocation2Small.jpg)
 ![](assets/naotoshi/RioSurfLocation3Small.jpg)
 
-#### Payment
-Sacha accepts Bitcoin!  
-He accepts payments on his [Bitcoin Beach wallet](https://ln.bitcoinbeach.com/arentura).
-
 ### David's bike
 
 ![](assets/david_avalos/bike.png)
