@@ -208,6 +208,8 @@ footer .desktop {
         font-size: 2.5rem;
         color: #333;
         display: inline-block;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
     }
 
     footer .desktop {

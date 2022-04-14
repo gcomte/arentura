@@ -70,9 +70,16 @@
       </section>
       <footer>
 	    <p class="desktop"><small>Contribute to this website <a href="{{ site.github.repository_url }}">on GitHub</a>
-        and follow us on <a href="{{ site.social.twitter }}">Twitter</a>!</small></p>
-        <div class="mobile"><a href="{{ site.github.repository_url }}"><i class="icon ion-social-github"></i></a></div>
-        <div class="mobile"><a href="{{ site.social.twitter }}"><i class="icon ion-social-twitter"></i></a></div>
+          {% if site.social.twitter %}
+          and follow us on <a href="{{ site.social.twitter }}">Twitter</a>
+          {% endif %}
+          !</small></p>
+        <div class="mobile">
+          <a href="{{ site.github.repository_url }}"><i class="icon ion-social-github"></i></a>
+          {% if site.social.twitter %}
+          <a href="{{ site.social.twitter }}"><i class="icon ion-social-twitter"></i></a>
+          {% endif %}
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
