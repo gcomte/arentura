@@ -1,5 +1,8 @@
+domain: arentura.com
 theme: jekyll-theme-minimal
 description: Rentals and other services in El Zonte
 logo: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoTransparent.png
 social:
   twitter: https://twitter.com/arentura1
+lightning_address: arentura@ln.bitcoinbeach.com
+og_image: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoSquare.png
