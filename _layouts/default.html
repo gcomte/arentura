@@ -77,11 +77,18 @@
           {% if site.social.twitter %}
           and follow us on <a href="{{ site.social.twitter }}">Twitter</a>
           {% endif %}
-          !</small></p>
+          !
+          {% if site.social.telegram %}
+            Get in touch on <a href="{{ site.social.telegram }}">Telegram</a>.
+          {% endif %}
+        </small></p>
         <div class="mobile">
           <a href="{{ site.github.repository_url }}"><i class="icon ion-social-github"></i></a>
           {% if site.social.twitter %}
           <a href="{{ site.social.twitter }}"><i class="icon ion-social-twitter"></i></a>
+          {% endif %}
+          {% if site.social.telegram %}
+          <a href="{{ site.social.telegram }}"><i class="icon chatbox-ellipses-outline"></i></a>
           {% endif %}
         </div>
       </footer>
