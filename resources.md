@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ressources
+title: Resources
 rank: 9
 ---
 Websites that could be interesting to you:
