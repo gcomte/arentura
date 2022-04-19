@@ -4,9 +4,9 @@ title: Cars
 rank: 1
 ---
 
-| Service | Owner | Details |
-| --- | --- | --- |
-| Cars | [Manolo](#manolos-car-rental) | Various cars |
+| Service | Owner | Details | <abbr title="Accepts Bitcoin?">₿</abbr> |
+| --- | --- | --- | --- |
+| Cars | [Manolo](#manolos-car-rental) | Various cars | ? |
 
 ### Manolo's Car Rental
 Manolo has multiple cars available for rent.

@@ -7,9 +7,9 @@ List of surfing equipment to be rented
 
 ### Overview
 
-| Service | Owner | Price |
-| --- | --- | --- |
-| Bodyboards and classes | [Naotoshi](#bodyboards-naotoshi-horishi) | $10 / day |
+| Service | Owner | Price | <abbr title="Accepts Bitcoin?">₿</abbr> |
+| --- | --- | --- | --- |
+| Bodyboards and classes | [Naotoshi](#bodyboards-naotoshi-horishi) | $10 / day | ? |
 
 ---
 

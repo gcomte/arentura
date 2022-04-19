@@ -6,11 +6,11 @@ rank: 6
 
 ### Overview
 
-| Service | Owner | Description |
-| --- | --- | --- |
-| Coworking Space | [Hope House](#coworking-space-hope-house) | Price: $10/day |
-| Hairdresser | [Lily](#hairdresser-lily) | Unisex |
-| Tattoo Studio | [Crazy Minds Studio](#tattoos-crazy-minds-studio) | |
+| Service | Owner | Description | <abbr title="Accepts Bitcoin?">₿</abbr> |
+| --- | --- | --- | ---|
+| Coworking Space | [Hope House](#coworking-space-hope-house) | Price: $10/day | ✅ | 
+| Hairdresser | [Lily](#hairdresser-lily) | Unisex | ? |
+| Tattoo Studio | [Crazy Minds Studio](#tattoos-crazy-minds-studio) | | ? |
 
 ---
 
