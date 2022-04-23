@@ -10,3 +10,11 @@ Prerequisites:
 ```
 jekyll serve -w --config _config.yml
 ```
+
+### NixOS
+
+If you are working on NixOS you can run the following instead:
+
+```shell
+nix-shell --command "jekyll serve -w --config _config.yml"
+```
