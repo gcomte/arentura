@@ -6,10 +6,10 @@ rank: 3
 
 ### Overview
 
-| Service | Owner | Price |
-| --- | --- | --- |
-| Bicycle | [Sacha](#sachas-bike) | $10/day |
-| Bicycle | [David](#davids-bike) | $10/day |
+| Service | Owner | Price | <abbr title="Accepts Bitcoin?">₿</abbr> |
+| --- | --- | --- | --- |
+| Bicycle | [Sacha](#sachas-bike) | $10/day | ✅ |
+| Bicycle | [David](#davids-bike) | $10/day | ? |
 
 ---
 
