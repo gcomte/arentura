@@ -15,6 +15,7 @@ List of public chat groups and communities. Feel free to join!
 | [Bitcoin Beach Events](https://t.me/bbevents) | Telegram | Events around El Zonte |
 | [El Zonte Bitcoiners](https://t.me/ezbitcoiners) | Telegram | HODL! |
 | [Surfers of El Zonte!](https://t.me/ezsurfers) | Telegram | |
+| [Boxing Club](https://www.meetup.com/bitcoin-beach-boxing-club/) | meetup.com | |
 | [Kickboxing in El Zonte](https://t.me/ezkickboxing) | Telegram | Just for fun, nothing professional |
 | [Bitcoin Beach Carnivores](https://t.me/bbcarnivores) | Telegram | |
 | [Yoga El Zonte](https://t.me/ezyoga) | Telegram | Namaste! |
