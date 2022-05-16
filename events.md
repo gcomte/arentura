@@ -8,6 +8,7 @@ rank: 7
 
 | Date | Title | Fee | Address |
 | --- | --- | --- | --- |
+| November 15th-17th | [Adopting Bitcoin](https://adoptingbitcoin.org/2022/) | [$150-$425](https://adoptingbitcoin.org/2022/#tickets) | [San Salvador](https://goo.gl/maps/tJ5ztfyso3E9uKSG7) |
 | May 6th | [Nodos Lightning](https://www.ticketcode.co/eventos/nodoslightning-que-son-configuracion-operacion) | $0 | [San Salvador](https://goo.gl/maps/WSK3uQvsaUaQdA2c7) |
 
 ### Recurring events
