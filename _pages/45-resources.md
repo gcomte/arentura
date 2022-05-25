@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: Resources
-rank: 9
+menu_item: true
 ---
-Websites that could be interesting to you:
+
+Websites that could be interesting for you:
 
 | Website | Description |
 | --- | --- |

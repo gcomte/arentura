@@ -1,0 +1,29 @@
+.icon--lightning svg {
+  height: calc(18px + 6 * ((100vw - 320px) / 960));
+  margin-top: -1px;
+  margin-left: 1px;
+}
+
+.sidebar .menu {
+  font-size: 24px;
+}
+
+.intro-title {
+  font-size: 26px;
+}
+
+.intro-subtitle {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+html {
+  font-size: 14px;
+}
+
+table {
+  font-size: calc(12px + 2 * ((100vw - 320px) / 960));
+}

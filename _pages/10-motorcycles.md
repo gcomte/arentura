@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Motorcycles
-rank: 2
+menu_item: true
 ---
 
 Coming soon!

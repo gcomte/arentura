@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Events
-rank: 7
+menu_item: true
 ---
 
 ### Events

@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Communities
-rank: 8
+menu_item: true
 ---
+
 List of public chat groups and communities. Feel free to join!
 
 | Service | Platform | Comment |
