@@ -32,7 +32,7 @@ minimal_mistakes_skin: default
 google_analytics: G-7BSMQ4177D
 
 # Search
-search: true
+search: false
 search_full_content: true
 
 # Twitter
