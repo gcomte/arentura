@@ -19,7 +19,7 @@ Contact Sacha [on Whatsapp](https://wa.me/+31615417038) or call him: [+503 7754 
 
 #### Location
 Find Sacha on [Google Maps](https://maps.app.goo.gl/NyyhgNDhKvLxTzCv8).
-He is located within the Hostel *Rio Surf*:
+He is located within the Hostel *Rio Sound*:
 
 ![](../../assets/naotoshi/RioSurfLocation1Small.jpg)  
 
