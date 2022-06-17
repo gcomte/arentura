@@ -6,7 +6,7 @@ menu_item: true
 
 ### Bicycle rentals
 
-| Owner | Price |
-| --- | --- |
-| [Sacha](../sachas-bike/) | $10/day |
+| Owner                    | Price |
+|--------------------------| --- |
+| [Saenz](../saenz-bike/)  | $10/day |
 | [David](../davids-bike/) | $10/day |
